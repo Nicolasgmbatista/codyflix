@@ -88,7 +88,7 @@ e altura 180px */
 .banner__button {
   cursor: pointer; /* cursor apontador */
   color: #fff;/* cor branca */
-  outline: none /* sem sublinhado */
+  outline: none; /* sem sublinhado */
   border: none; /* sem borda */
   font-weight: 700; /* negrito */
   border-radius: 0.2vw; /* borda arredondada*/
